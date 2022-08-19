@@ -357,7 +357,7 @@ border: none;}
     
 }
 .footer-bottom a:hover{
-    color: none;
+    /* color: none; */
     text-decoration: none;
 }
 
