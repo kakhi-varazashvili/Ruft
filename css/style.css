@@ -442,8 +442,8 @@ border: none;}
       }
       .navbar-collapse {
           position: absolute;
-          top: 0;
-          left: 0;
+          top: -10px;
+          left: -25px;
           width: 260px;
           height: 100vh;
           background-color:black;
@@ -473,10 +473,7 @@ border: none;}
       header {
           padding: 10px;
       }
-      .container {
-          /* padding: 0;
-          margin: 0; */
-      }
+   
       .logo {
           margin-left: 10px;
       }
